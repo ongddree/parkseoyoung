@@ -1,7 +1,6 @@
 import styled from "@emotion/styled"
 import {MEDIA_QUERY_END_POINT} from "@constants/."
 
-
 interface SkillProps {
   title:string,
   itemSet : Array<{
